@@ -24,7 +24,7 @@ function App() {
   }
 
   return (
-    <BrowserRouter>
+    <BrowserRouter>  
       <div className="App">
         <ul>
           <li><Link to="/home">Home</Link></li>
